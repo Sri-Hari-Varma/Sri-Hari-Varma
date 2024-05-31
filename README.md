@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sri-Hari-Varma
-- 👀 I’m interested in 3D
+- 👀 I’m interested in 3D Modeling
 - 🌱 I’m currently learning Blender
